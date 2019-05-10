@@ -13,7 +13,7 @@ int main()
 
 	for(i=0;i<n;i++)
 	{
-		cout<<"Enter element "<<i+1<<":";
+		cout<<"Enter number "<<i+1<<":";
 		cin>>Arr[i];
 	}
 
